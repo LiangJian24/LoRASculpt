@@ -1,7 +1,3 @@
-# LoRASculpt
-[CVPR'25 Oral] LoRASculpt: Sculpting LoRA for Harmonizing General and Specialized Knowledge in Multimodal Large Language Models
-
-
 <h1 align="center">
   LoRASculpt: Sculpting LoRA for Harmonizing General and Specialized <br>
   Knowledge in Multimodal Large Language Models <br>
