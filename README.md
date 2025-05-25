@@ -1,7 +1,5 @@
 <h1 align="center">
-  LoRASculpt: Sculpting LoRA for Harmonizing General and Specialized <br>
-  Knowledge in Multimodal Large Language Models <br>
-  [CVPR'25 Oral]
+  [CVPR'25 Oral] LoRASculpt: Sculpting LoRA for Harmonizing General and Specialized Knowledge in Multimodal Large Language Models <br>
 </h1>
 
 <div align="center">
