@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-<img alt="method" src="images/LoRASculpt.png">
+<img alt="method" src="images/lorasculpt.png">
 </div>
 
 
