@@ -1,6 +1,4 @@
-<h1 align="center">
-  [CVPR'25 Oral] LoRASculpt <br>
-</h1>
+# [CVPR'25 Oral] LoRASculpt
 
 This repository is built for the paper [LoRASculpt: Sculpting LoRA for Harmonizing General and Specialized Knowledge in Multimodal Large Language Models](https://arxiv.org/abs/2503.16843).
 
