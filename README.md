@@ -6,6 +6,6 @@ This repository is built for the paper [LoRASculpt: Sculpting LoRA for Harmonizi
 <img alt="method" src="images/LoRASculpt.png">
 </div>
 
-
 ## News
 * [2025-05] Repo created. Code will be released soon.
+* [2025-07] Code released.
