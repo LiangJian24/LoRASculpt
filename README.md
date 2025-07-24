@@ -50,6 +50,7 @@ This repository is built for the paper [LoRASculpt: Sculpting LoRA for Harmonizi
 
 
 ## Citation
+If you find LoRASculpt useful for your research and applications, please cite using this BibTeX:
 ```bibtex
 @InProceedings{Liang_2025_CVPR,
     author    = {Liang, Jian and Huang, Wenke and Wan, Guancheng and Yang, Qu and Ye, Mang},
@@ -58,3 +59,11 @@ This repository is built for the paper [LoRASculpt: Sculpting LoRA for Harmonizi
     year      = {2025}
 }
 ```
+
+## Acknowledgement
+Our repo is built on [LLaVA](https://github.com/haotian-liu/LLaVA). We thank the authors for sharing their code.
+
+
+## Related Projects
+Keeping Yourself is Important in Downstream Tuning Multimodal Large Language Model
+[[Paper](https://arxiv.org/abs/2503.04543)][[Project Page](https://github.com/WenkeHuang/Awesome-MLLM-Tuning)]
