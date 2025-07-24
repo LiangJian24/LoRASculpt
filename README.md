@@ -12,13 +12,13 @@ This repository is built for the paper [LoRASculpt: Sculpting LoRA for Harmonizi
 
 
 ## Preparation
-1. Clone this repository and navigate to LoRASculpt folder
+1. Clone this repository and navigate to LoRASculpt folder:
     ```bash
     git clone https://github.com/LiangJian24/LoRASculpt
     cd LoRASculpt
     ```
 
-2. Install Package
+2. Install package:
     ```Shell
     conda create -n lorasculpt python=3.10 -y
     conda activate lorasculpt
@@ -26,13 +26,13 @@ This repository is built for the paper [LoRASculpt: Sculpting LoRA for Harmonizi
     pip install -e .
     ```
 
-3. Install additional packages for training cases
+3. Install additional packages for training cases:
     ```
     pip install -e ".[train]"
     pip install flash-attn --no-build-isolation
     ```
 
-4. Download the required datasets and place it in the corresponding folder.
+4. Download the required datasets and place them in the corresponding folder.
 
 
 ## Usage
